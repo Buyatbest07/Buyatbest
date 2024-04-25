@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Welcome to,
+# Buy at Best 💸🛒✨
 
-## Getting Started
+The **Buy at Best** is your ultimate shopping companion! Whether you're a bargain hunter, a tech enthusiast, or just someone who loves a good deal, this app has got you covered. Let's dive into what makes it awesome:
 
-First, run the development server:
+## Features of our tracker🌟
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. **Search and Compare**:
+   - Easily search for products by name, URL, or keywords.
+   - Compare prices across top e-commerce platforms like Amazon.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. **Price History Insights**:
+   - Interactive charts show you how product prices have changed over time.
+   - Spot trends, identify the best time to buy, and avoid price hikes.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. **Set Price Alerts**:
+   - Pick your desired price for a product.
+   - Get notified (via email or in-app) when the price drops below your threshold.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+4. **Personalized Recommendations**:
+   - Create a user profile to save favorite products.
 
-## Learn More
+## Getting Started 🚀
 
-To learn more about Next.js, take a look at the following resources:
+1. **Installation**:
+   - Clone this repository to your local machine.
+   - Run `npm install` or `yarn install` to install dependencies.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Configuration**:
+   - Set up environment variables (API keys, database connections, etc.).
+   - Customize your app's branding and logo.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. **Run the App**:
+   - Use `npm run dev` or `yarn dev` to start the development server.
+   - Access the app at http://localhost:3000.
 
-## Deploy on Vercel
+4. **Deployment**:
+   - Deploy to your favorite hosting platform (Vercel, Netlify, Heroku, etc.).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Tech Stack 🛠️
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Next.js**: For lightning-fast server-side rendering and smooth routing.
+- **MongoDB**: Store product data and historical prices.
+- **Bright Data**: Extract amazon databases.
+- **Node Mailer**: Send those sweet price drop alerts.
+
+## Contributing 🙌
+
+Contributions are more than welcome! If you have ideas for improvements or want to add new features, submit a pull request. Let's make shopping smarter together!
+
+
+## About us
+Our team consists of two members-
+-**Khushi Prasad**: Information Technology ,4th year
+-**Pravar Kumar Chandore**: Information Technology ,4th year
+Our mentors from college-
+-**Dr. Mukul Shukla**: Professor, Information Technology 
+-**Prof.Upendra Singh**: Assistant Professor, Information Technology 
+
+
+
